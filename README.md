@@ -1,2 +1,3 @@
 # ralsei-clicker
 The long awaited C# game i've been working on.....
+What you do in the game is painfully obvious.
